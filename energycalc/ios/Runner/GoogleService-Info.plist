@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>474102001797-87u3quiv0bn2gd5ub7026rhaff59thhc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.474102001797-87u3quiv0bn2gd5ub7026rhaff59thhc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDrmTx-Ap4u4VKmP0RtIWk5TU-G5a4vnVs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>474102001797</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.energycalc</string>
+	<key>PROJECT_ID</key>
+	<string>my-first-app-ea253</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-first-app-ea253.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:474102001797:ios:dfc2a3071753a510bbf9ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-first-app-ea253-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
